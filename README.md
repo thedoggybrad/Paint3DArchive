@@ -1,2 +1,6 @@
 # Paint3DArchive
-The .APPXBUNDLE archive of Microsoft Paint 3D to ensure it will never go away!
+This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. 
+
+## Vision
+
+## Mission
