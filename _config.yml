@@ -1,0 +1,9 @@
+icon: https://github.com/user-attachments/assets/c84a0259-a6ca-4b4f-9f39-b7530382b478
+remote_theme: pages-themes/cayman@v0.2.0
+plugins: 
+- jekyll-remote-theme
+- jekyll-seo-tag
+title: Paint3DArchive
+description: The archive of Microsoft Paint 3D releases by TheDoggyBrad Software Labs. 
+github:
+  is_project_page: false
