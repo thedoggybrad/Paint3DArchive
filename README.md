@@ -79,5 +79,5 @@ https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2024.2408.20
 
 
 ## Copyright
-Disclaimer: I do not claim ownership for the software on this archive. All of the releases of this software are owned by their respective owners. Also, I do not have any responsibility for your use of the archived releases I have provided.
+Disclaimer: I do not claim ownership for the software on this archive. All of the releases of this software are owned by their respective owners. Also, I do not have any responsibility for your use of the archived releases I have provided.<br>
 ©Microsoft Corporation. All Rights Reserved.
