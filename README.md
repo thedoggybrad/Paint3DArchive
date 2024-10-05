@@ -1,3 +1,5 @@
+![icons8-paint-3d-144](https://github.com/user-attachments/assets/c84a0259-a6ca-4b4f-9f39-b7530382b478)
+
 # Paint3DArchive
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. These files are unmodified, meaning the original digital signatures from Microsoft Corporation remained untampered.
 <br><br>
