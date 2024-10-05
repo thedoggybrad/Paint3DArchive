@@ -76,3 +76,8 @@ https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2024.2405.19
 
 ### 2024.2408.2027.0
 https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2024.2408.2027.0.AppxBundle
+
+
+## Copyright
+Disclaimer: I do not claim ownership for the software on this archive. All of the releases of this software are owned by their respective owners. Also, I do not have any responsibility for your use of the archived releases I have provided.
+©Microsoft Corporation. All Rights Reserved.
