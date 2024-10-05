@@ -12,7 +12,6 @@ Just download the .appxbundle file and click to run it. Then click install if as
 ```
 Add-AppxPackage -Path "C:\Path\to\File.Appx"
 ```
-<br>
 Just download the .appxbundle file and open your Powershell (not Command Prompt) then enter the following commands. Remember to replace the path with the actual path of the downloaded .appxbundle file.
 
 
