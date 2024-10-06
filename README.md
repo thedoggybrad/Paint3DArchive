@@ -31,8 +31,8 @@ This repository is commited to deliver archival of Microsoft Paint 3D and to ens
 
 ## Download Links
 File Hosting Providers:<br>
-1.) Github (via Github Releases<br>
-2.) Mega.NZ (via its cloud storage)
+1.) Github (via Github Releases) - Primary Host<br>
+2.) Mega.NZ (via its cloud storage) - Backup Host
 ### 2.1703.21017.1000
 Github: [https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2.1703.21017.1000.AppxBundle](https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/2.1703.21017.1000.AppxBundle)
 <br>
