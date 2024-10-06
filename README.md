@@ -10,16 +10,15 @@ Here are simple steps to follow when you will install the downloaded archives Mi
 ### For Windows 10 version 1607 and higher
 Just download the .appxbundle file and click to run it. Then click install if asked.
 
-## Download blocked by Browser
-Relax. Allow the download and choose to keep the file even it warns that it is dangerous. Your browser does that (specifically Microsoft Edge) because the file should be downloaded from the Microsoft Store but were downloading it from the outside.<br>
-But, if the file is blocked by Microsoft Defender SmartScreen and/or any security software, kindly double check the file as it is not supposed to happen as all the files here in this repository are digitally signed by Microsoft themselves.
-
 ### For older versions of Windows 10
 ```
 Add-AppxPackage -Path "C:\Path\to\File.Appx"
 ```
 Just download the .appxbundle file and open your Powershell (not Command Prompt) then enter the following commands. Remember to replace the path with the actual path of the downloaded .appxbundle file.
 
+## Download blocked by Browser or Security Product
+Relax. Allow the download and choose to keep the file even it warns that it is dangerous. Your browser does that (specifically Microsoft Edge) because the file should be downloaded from the Microsoft Store but were downloading it from the outside.<br>
+But, if the file is blocked by Microsoft Defender SmartScreen and/or any security software, kindly double check the file as it is not supposed to happen as all the files here in this repository are digitally signed by Microsoft themselves.
 
 ## Motto
 "Paint 3D will never die and will remain in our hearts."
