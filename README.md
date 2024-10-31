@@ -106,7 +106,8 @@ Mega: [https://mega.nz/file/k9pkhIRJ#mcSTTnr9Qk8s9tuEyrH8SPQRYTVSwxEMzqYcjAdKicE
 ### 2024.2408.2027.0
 Github: [https://github.com/thedoggybrad/Paint3DArchive/releases/download/b2/2024.2410.13017.0.AppxBundle](https://github.com/thedoggybrad/Paint3DArchive/releases/download/b2/2024.2410.13017.0.AppxBundle)
 <br>
-Mega: COMING SOON
+Mega: [https://mega.nz/file/8x4Q0ahZ#mRjH5WiMJcma5I1Yf3uhwls7mynI9Bv8IfUm755_gEs](https://mega.nz/file/8x4Q0ahZ#mRjH5WiMJcma5I1Yf3uhwls7mynI9Bv8IfUm755_gEs)
+
 ## Copyright
 Disclaimer: I do not claim ownership for the software on this archive. All of the releases of this software are owned by their respective owners. Also, I do not have any responsibility for your use of the archived releases I have provided.<br>
 ©Microsoft Corporation. All Rights Reserved.
