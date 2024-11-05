@@ -103,7 +103,7 @@ Github: [https://github.com/thedoggybrad/Paint3DArchive/releases/download/b1/202
 <br>
 Mega: [https://mega.nz/file/k9pkhIRJ#mcSTTnr9Qk8s9tuEyrH8SPQRYTVSwxEMzqYcjAdKicE](https://mega.nz/file/k9pkhIRJ#mcSTTnr9Qk8s9tuEyrH8SPQRYTVSwxEMzqYcjAdKicE)
 
-### 2024.2408.2027.0
+### 2024.2410.13017.0
 Github: [https://github.com/thedoggybrad/Paint3DArchive/releases/download/b2/2024.2410.13017.0.AppxBundle](https://github.com/thedoggybrad/Paint3DArchive/releases/download/b2/2024.2410.13017.0.AppxBundle)
 <br>
 Mega: [https://mega.nz/file/8x4Q0ahZ#mRjH5WiMJcma5I1Yf3uhwls7mynI9Bv8IfUm755_gEs](https://mega.nz/file/8x4Q0ahZ#mRjH5WiMJcma5I1Yf3uhwls7mynI9Bv8IfUm755_gEs)
