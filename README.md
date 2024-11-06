@@ -1,13 +1,13 @@
-### Announcement
-Since November 5, 2024, Microsoft Corporation has now finally removed the Paint3D app in the Microsoft Store and is now discontinued. Since there are no more releases of Paint3D to come, this project has reached its end and will be archived. But it does not mean that this repository will vanish, rather it will just be archived. Thank you for your support!<br>
--TheDoggyBrad Software Labs<br><br>
-
 ![icons8-paint-3d-144](https://github.com/user-attachments/assets/c84a0259-a6ca-4b4f-9f39-b7530382b478)
 
 # Paint3DArchive
 This is an archive of the releases of Microsoft Paint 3D that are directly obtained from Microsoft's servers. These files are unmodified, meaning the original digital signatures from Microsoft Corporation remained untampered.
 <br><br>
 All of the releases archived in this repository are in .Appxbundle format. This means that even Microsoft removes Paint3D in their servers, it will still work as it is an offline copy.
+
+### Announcement
+Since November 5, 2024, Microsoft Corporation has now finally removed the Paint3D app in the Microsoft Store and is now discontinued. Since there are no more releases of Paint3D to come, this project has reached its end and will be archived. But it does not mean that this repository will vanish, rather it will just be archived. Thank you for your support!<br>
+-TheDoggyBrad Software Labs
 
 ## How to install??
 Here are simple steps to follow when you will install the downloaded archives Microsoft Paint 3D from this repository and installing .Appxbundle files as well.
